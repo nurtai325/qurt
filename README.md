@@ -29,8 +29,6 @@ It is really easy to run **Qurt** locally with docker. You'll need to have the f
 
 Once you have the required packages installed, follow these steps to run the project locally:
 
-### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/nurtai325/qurt.git
 cd qurt
