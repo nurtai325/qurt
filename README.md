@@ -37,3 +37,6 @@ npm i
 npm run build
 cd ..
 docker compose up
+```
+
+Open localhost in the browser
