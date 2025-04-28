@@ -4,7 +4,7 @@
 
 **Qurt** is an innovative, interactive programming language designed to teach the fundamentals of coding in **Kazakh**. Tailored for educators, students, and developers, Qurt bridges the gap between technology and native language, fostering an inclusive learning environment.
 
-> 🏫 **Currently used in schools near Almaty** to help students learn programming through a culturally relevant and intuitive platform.
+> 🏫**Real world usage** — currently used in schools near Almaty to help students learn programming through a culturally relevant and intuitive platform.
 
 > ⚛️ **Built with React** — providing a modern, fast, and dynamic user experience. Editor code in the ./editor directory is written in React.
 
