@@ -27,12 +27,13 @@ It is really easy to run **Qurt** locally with docker. You'll need to have the f
 
 - Node.js
 - Docker
-- Make
 
 Once you have the required packages installed, follow these steps to run the project locally:
 
 ```bash
 git clone https://github.com/nurtai325/qurt.git
-cd qurt
-make build
-make run
+cd qurt/editor
+npm i
+npm run build
+cd ..
+docker compose up

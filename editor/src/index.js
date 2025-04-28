@@ -1,5 +1,7 @@
-import { createElement } from 'react';
 import { createRoot } from 'react-dom/client';
+import "./index.css";
 
 const root = createRoot(document.getElementById("root"));
-root.render(createElement("p", undefined, "hello"));
+root.render(
+	<div className='text-blue-600'>hello</div>
+);
