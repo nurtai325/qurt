@@ -39,4 +39,4 @@ cd ..
 docker compose up
 ```
 
-Open localhost in the browser
+Open localhost in the browser.
