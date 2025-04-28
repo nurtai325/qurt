@@ -1,6 +1,6 @@
 VERSION=1.0.0
 NAME=qurt
-PORT=8080
+PORT=80
 
 all:
 	make build
