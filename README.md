@@ -8,6 +8,8 @@
 
 > ⚛️ **Built with React** — providing a modern, fast, and dynamic user experience. Editor code in the ./editor directory is written in React.
 
+> ⚡**Blazingly fast** — the project takes advantage of advanced caching and load time optimization techniques. Also, the editor code in React is highly optimize to provide blazingly fast user experience.
+
 ---
 
 ## 🌐 Explore Qurt
