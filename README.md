@@ -46,3 +46,4 @@ Optionally you can run the custom CI/CD server.
 ```bash
 GIT_SECRET=webhook_secret go run main.go
 ```
+
