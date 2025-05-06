@@ -1,9 +1,8 @@
-import { createRoot } from 'react-dom/client';
 import { App } from './App';
+import { createRoot } from "react-dom/client";
 import "./index.css";
 
-const root = createRoot(document.getElementById("root"));
-root.render(
+createRoot(document.getElementById('root')!).render(
 	<>
 		<header className="flex justify-between items-center px-10 py-2 bg-white shadow-md w-full">
 			<a href="/">
