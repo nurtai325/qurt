@@ -12,7 +12,7 @@ func main() {
 	if secret == "" {
 		panic("secret is empty. set GIT_SECRET env variable")
 	}
-	http.HandleFunc("/githook", func(w http.ResponseWriter, r *http.Request) {
+	http.HandleFunc("POST /githook", func(w http.ResponseWriter, r *http.Request) {
 		fmt.Println("hello")
 		fmt.Println(r.Header)
 		body, err := io.ReadAll(r.Body)
