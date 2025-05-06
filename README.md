@@ -28,6 +28,7 @@ It is really easy to run **Qurt** locally with docker. You'll need to have the f
 - Node.js
 - Docker
 
+Before running you would have to install **certbot** and generate certificates for qurt.tech for nginx.
 Once you have the required packages installed, follow these steps to run the project locally:
 
 ```bash
