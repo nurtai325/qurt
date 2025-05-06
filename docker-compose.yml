@@ -7,5 +7,6 @@ services:
       - ./landing:/usr/share/nginx/html
       - ./assets:/usr/share/nginx/html/assets
       - ./editor/dist:/usr/share/nginx/html/editor
+      - /etc/letsencrypt:/etc/letsencrypt
     ports:
       - "80:80"
