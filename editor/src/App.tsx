@@ -1,3 +1,6 @@
 export const App = () => {
-	return <div className="flex">hello</div>
+	return (
+		<div className="flex">
+		</div>
+	)
 }
